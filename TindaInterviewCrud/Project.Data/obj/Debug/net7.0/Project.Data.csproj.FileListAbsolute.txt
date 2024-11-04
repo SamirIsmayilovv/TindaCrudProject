@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\TindaInterviewCrud\Project.Data\bin\Debug\net7.0\Project.Data.deps.json
+C:\Users\ASUS\source\repos\TindaInterviewCrud\Project.Data\bin\Debug\net7.0\Project.Data.runtimeconfig.json
+C:\Users\ASUS\source\repos\TindaInterviewCrud\Project.Data\bin\Debug\net7.0\Project.Data.dll
+C:\Users\ASUS\source\repos\TindaInterviewCrud\Project.Data\bin\Debug\net7.0\Project.Data.pdb
+C:\Users\ASUS\source\repos\TindaInterviewCrud\Project.Data\bin\Debug\net7.0\Project.Core.dll
+C:\Users\ASUS\source\repos\TindaInterviewCrud\Project.Data\bin\Debug\net7.0\Project.Core.pdb
+C:\Users\ASUS\source\repos\TindaInterviewCrud\Project.Data\obj\Debug\net7.0\Project.Data.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\TindaInterviewCrud\Project.Data\obj\Debug\net7.0\Project.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\TindaInterviewCrud\Project.Data\obj\Debug\net7.0\Project.Data.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\TindaInterviewCrud\Project.Data\obj\Debug\net7.0\Project.Data.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\TindaInterviewCrud\Project.Data\obj\Debug\net7.0\Project.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TindaInterviewCrud\Project.Data\obj\Debug\net7.0\Project.Data.csproj.CopyComplete
+C:\Users\ASUS\source\repos\TindaInterviewCrud\Project.Data\obj\Debug\net7.0\Project.Data.dll
+C:\Users\ASUS\source\repos\TindaInterviewCrud\Project.Data\obj\Debug\net7.0\refint\Project.Data.dll
+C:\Users\ASUS\source\repos\TindaInterviewCrud\Project.Data\obj\Debug\net7.0\Project.Data.pdb
+C:\Users\ASUS\source\repos\TindaInterviewCrud\Project.Data\obj\Debug\net7.0\Project.Data.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\TindaInterviewCrud\Project.Data\obj\Debug\net7.0\ref\Project.Data.dll

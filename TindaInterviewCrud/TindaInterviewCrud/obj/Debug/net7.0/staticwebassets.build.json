@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "mddsyjNs2bkunoR8E+Lyo3I8pe3eCQ1EAtUMih20h+I=",
+  "Source": "TindaInterviewCrud",
+  "BasePath": "_content/TindaInterviewCrud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TindaInterviewCrud\\wwwroot",
+      "Source": "TindaInterviewCrud",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\TindaInterviewCrud\\TindaInterviewCrud\\wwwroot\\",
+      "BasePath": "_content/TindaInterviewCrud",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
